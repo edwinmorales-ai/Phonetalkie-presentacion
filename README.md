@@ -14,4 +14,12 @@ Las salas admiten hasta cuatro personas. Solo una puede hablar a la vez y cada t
 
 Puedes usarla desde el teléfono sin instalar una app. Mantén la página abierta y el teléfono activo durante la conversación: el audio en segundo plano depende del navegador y del dispositivo.
 
+### Imágenes de la web
+
+Pantalla de inicio de la versión publicada, capturada en escritorio y móvil.
+
+![Phonetalkie en un navegador de escritorio](images/phonetalkie-escritorio.png)
+
+<p align="center"><img src="images/phonetalkie-movil.png" alt="Pantalla de inicio de Phonetalkie en móvil" width="320"></p>
+
 Este repositorio es la presentación pública del proyecto. El código fuente se mantiene en un repositorio privado.
